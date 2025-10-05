@@ -1,6 +1,6 @@
 # Hi, I’m Sachin Bhoi 👋
 
-> **Batch / Fresh Graduate | ML & Cloud Enthusiast | Building practical AI tools for finance & automation**
+> **BTach / Fresh Graduate| computer Engineering | ML & Cloud Enthusiast | Building practical AI tools for finance & automation**
 
 ---
 
@@ -52,13 +52,6 @@
 
 ---
 
-## 📈 GitHub Stats & Extras
-
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhoisachin\&show_icons=true\&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoisachin\&layout=compact)
-
----
 
 ## ✉️ Contact
 
